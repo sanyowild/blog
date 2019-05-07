@@ -6,9 +6,12 @@
 
 	deploy automatico
 
-'''bash
+	'''bash
 	git commit -m "comentario"
 
+	'''
+
+	
 ##Acesse aqui
 	[blog](https:/sanyowild.netlify.com)
 
