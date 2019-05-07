@@ -4,14 +4,14 @@
 
 ## para enviar automaticamente para o netlify
 
-	deploy automatico
+	Deploy automatico
 
-	'''bash
+```bash
 	git commit -m "comentario"
 
-	'''
+```
 
-	
+
 ##Acesse aqui
 	[blog](https:/sanyowild.netlify.com)
 
